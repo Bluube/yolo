@@ -1,0 +1,3 @@
+[submodule "test3"]
+	path = test3
+	url = https://github.com/Bluube/test3
